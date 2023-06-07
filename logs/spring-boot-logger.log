@@ -1,0 +1,28 @@
+[11:20:47.641][0001] o.s.b.StartupInfoLogger.logStarting(51) Starting Application using Java 17.0.4.1 with PID 11900 (C:\Users\kkale\Desktop\AEPS\All Banks\KVB\Message25_Switch\Source code\aeps.kvb\target\classes started by kkale in C:\Users\kkale\Desktop\AEPS\All Banks\KVB\Message25_Switch\Source code\aeps.kvb)
+[11:20:47.647][0001] o.s.b.SpringApplication.logStartupProfileInfo(632) No active profile set, falling back to 1 default profile: "default"
+[11:20:48.317][0001] o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn(138) Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[11:20:48.428][0001] o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn(208) Finished Spring Data repository scanning in 91 ms. Found 1 JPA repository interfaces.
+[11:20:49.165][0001] o.h.j.i.u.LogHelper.logPersistenceUnitInformation(31) HHH000204: Processing PersistenceUnitInfo [name: default]
+[11:20:49.235][0001] o.h.Version.logVersion(44) HHH000412: Hibernate ORM core version 6.1.7.Final
+[11:20:49.831][0001] c.z.h.HikariDataSource.getConnection(110) oracle - Starting...
+[11:28:27.542][0001] o.s.b.StartupInfoLogger.logStarting(51) Starting Application using Java 17.0.4.1 with PID 6396 (C:\Users\kkale\Desktop\AEPS\All Banks\KVB\Message25_Switch\Source code\aeps.kvb\target\classes started by kkale in C:\Users\kkale\Desktop\AEPS\All Banks\KVB\Message25_Switch\Source code\aeps.kvb)
+[11:28:27.544][0001] o.s.b.SpringApplication.logStartupProfileInfo(632) No active profile set, falling back to 1 default profile: "default"
+[11:28:27.934][0001] o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn(138) Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[11:28:27.997][0001] o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn(208) Finished Spring Data repository scanning in 54 ms. Found 1 JPA repository interfaces.
+[11:28:28.480][0001] o.h.j.i.u.LogHelper.logPersistenceUnitInformation(31) HHH000204: Processing PersistenceUnitInfo [name: default]
+[11:28:28.532][0001] o.h.Version.logVersion(44) HHH000412: Hibernate ORM core version 6.1.7.Final
+[11:28:28.968][0001] c.z.h.HikariDataSource.getConnection(110) oracle - Starting...
+[11:38:23.344][0001] o.s.b.StartupInfoLogger.logStarting(51) Starting Application using Java 17.0.4.1 with PID 12148 (C:\Users\kkale\Desktop\AEPS\All Banks\KVB\Message25_Switch\Source code\aeps.kvb\target\classes started by kkale in C:\Users\kkale\Desktop\AEPS\All Banks\KVB\Message25_Switch\Source code\aeps.kvb)
+[11:38:23.346][0001] o.s.b.SpringApplication.logStartupProfileInfo(632) No active profile set, falling back to 1 default profile: "default"
+[11:38:23.720][0001] o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn(138) Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[11:38:23.780][0001] o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn(208) Finished Spring Data repository scanning in 52 ms. Found 1 JPA repository interfaces.
+[11:38:24.180][0001] o.h.j.i.u.LogHelper.logPersistenceUnitInformation(31) HHH000204: Processing PersistenceUnitInfo [name: default]
+[11:38:24.223][0001] o.h.Version.logVersion(44) HHH000412: Hibernate ORM core version 6.1.7.Final
+[11:38:24.557][0001] c.z.h.HikariDataSource.getConnection(110) oracle - Starting...
+[11:39:09.369][0001] o.s.b.StartupInfoLogger.logStarting(51) Starting Application using Java 17.0.4.1 with PID 8620 (C:\Users\kkale\Desktop\AEPS\All Banks\KVB\Message25_Switch\Source code\aeps.kvb\target\classes started by kkale in C:\Users\kkale\Desktop\AEPS\All Banks\KVB\Message25_Switch\Source code\aeps.kvb)
+[11:39:09.372][0001] o.s.b.SpringApplication.logStartupProfileInfo(632) No active profile set, falling back to 1 default profile: "default"
+[11:39:09.752][0001] o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn(138) Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[11:39:09.810][0001] o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn(208) Finished Spring Data repository scanning in 51 ms. Found 1 JPA repository interfaces.
+[11:39:10.207][0001] o.h.j.i.u.LogHelper.logPersistenceUnitInformation(31) HHH000204: Processing PersistenceUnitInfo [name: default]
+[11:39:10.261][0001] o.h.Version.logVersion(44) HHH000412: Hibernate ORM core version 6.1.7.Final
+[11:39:10.604][0001] c.z.h.HikariDataSource.getConnection(110) oracle - Starting...

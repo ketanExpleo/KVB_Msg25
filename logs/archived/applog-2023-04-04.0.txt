@@ -1,0 +1,12 @@
+[13:30:56.647][0001] o.s.b.StartupInfoLogger.logStarting(51) Starting Application using Java 17.0.4.1 with PID 3324 (C:\Users\kkale\Desktop\AEPS\All Banks\KVB\Message25_Switch\Source code\aeps.kvb\target\classes started by kkale in C:\Users\kkale\Desktop\AEPS\All Banks\KVB\Message25_Switch\Source code\aeps.kvb)
+[13:30:56.650][0001] o.s.b.SpringApplication.logStartupProfileInfo(632) No active profile set, falling back to 1 default profile: "default"
+[13:30:57.092][0001] o.s.b.StartupInfoLogger.logStarted(57) Started Application in 0.713 seconds (process running for 1.236)
+[13:31:44.503][0001] o.s.b.StartupInfoLogger.logStarting(51) Starting Application using Java 17.0.4.1 with PID 8784 (C:\Users\kkale\Desktop\AEPS\All Banks\KVB\Message25_Switch\Source code\aeps.kvb\target\classes started by kkale in C:\Users\kkale\Desktop\AEPS\All Banks\KVB\Message25_Switch\Source code\aeps.kvb)
+[13:31:44.507][0001] o.s.b.SpringApplication.logStartupProfileInfo(632) No active profile set, falling back to 1 default profile: "default"
+[13:31:44.972][0001] o.s.b.StartupInfoLogger.logStarted(57) Started Application in 0.732 seconds (process running for 1.258)
+[13:34:26.225][0001] o.s.b.StartupInfoLogger.logStarting(51) Starting Application using Java 17.0.4.1 with PID 15972 (C:\Users\kkale\Desktop\AEPS\All Banks\KVB\Message25_Switch\Source code\aeps.kvb\target\classes started by kkale in C:\Users\kkale\Desktop\AEPS\All Banks\KVB\Message25_Switch\Source code\aeps.kvb)
+[13:34:26.228][0001] o.s.b.SpringApplication.logStartupProfileInfo(632) No active profile set, falling back to 1 default profile: "default"
+[13:34:26.657][0001] o.s.b.StartupInfoLogger.logStarted(57) Started Application in 0.698 seconds (process running for 1.218)
+[13:36:18.338][0001] o.s.b.StartupInfoLogger.logStarting(51) Starting Application using Java 17.0.4.1 with PID 15680 (C:\Users\kkale\Desktop\AEPS\All Banks\KVB\Message25_Switch\Source code\aeps.kvb\target\classes started by kkale in C:\Users\kkale\Desktop\AEPS\All Banks\KVB\Message25_Switch\Source code\aeps.kvb)
+[13:36:18.341][0001] o.s.b.SpringApplication.logStartupProfileInfo(632) No active profile set, falling back to 1 default profile: "default"
+[13:36:18.800][0001] o.s.b.StartupInfoLogger.logStarted(57) Started Application in 0.73 seconds (process running for 1.263)
